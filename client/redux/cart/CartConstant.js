@@ -1,0 +1,6 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADDED_TO_CART = "ADDED_TO_CART";
+export const FAILED_TO_ADD = "FAILED_TO_ADD";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const REMOVED_FROM_CART = "REMOVED_FROM_CART";
+export const FAILED_TO_REMOVE = "FAILED_TO_REMOVE";
